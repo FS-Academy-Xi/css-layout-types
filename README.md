@@ -85,7 +85,7 @@ In order to create a fluid height, it is important to understand that a height o
 <body>
   <div>Hello</div>
 </body>
-``
+```
 
 ```css
 html, body, div {
